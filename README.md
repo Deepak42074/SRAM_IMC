@@ -9,9 +9,4 @@
 
 ## This is the design for SRAM in memory computing accelerator.
 
-:---: | :---
 
----dbsdfg.jnf lhd
-jfgd kjfnwed
-hg fkjsnf
-jhf iuhf;alj
